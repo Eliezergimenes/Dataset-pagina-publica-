@@ -27,8 +27,9 @@ Documentação do desenvolvedor: http://dev.fluig.com/
 
 ====================================================================
 
-Créditos: https://forum.fluig.com/692-acessar-datasource-privado-em-pagina-publica
-http://tdn.totvs.com/display/public/fluig/Fluig+API
+Créditos: Rodolfo Capasso dos Santos
+( https://forum.fluig.com/692-acessar-datasource-privado-em-pagina-publica
+http://tdn.totvs.com/display/public/fluig/Fluig+API )
 
 
 Obs: Projeto criado com finalidade de estudo.
